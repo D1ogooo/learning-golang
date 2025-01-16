@@ -8,7 +8,7 @@
 - [✔] Variáveis
 - [✔] Tipos de Dados
 - [✔] Funções
-- [ ] Operadores
+- [✔] Operadores
 - [ ] Structs
 - [ ] "Herança"
 - [ ] Arrays e Slices
